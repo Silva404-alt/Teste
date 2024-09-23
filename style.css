@@ -1,0 +1,67 @@
+body {
+    background-color: #b8b8ed8c;
+}
+
+h1 {
+    border-top: solid 2px #2e0043;
+    text-align: center;
+    font-size: 30px;
+}
+
+.divisao1 img {
+    background-color: rgba(196, 196, 243, 0.35);
+    height: 300px;
+    width: auto;
+    margin-left: 440px;
+}
+
+.objetivo {
+    border-bottom: solid 2px #2e0043;
+    font-size: 25px;
+    text-align: center;
+}
+
+.lingua {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 130px;
+}
+
+.lingua2 {
+    font-size: 20px;
+}
+
+.sites {
+    margin-left: 10px;
+    margin-right: 930px;
+    border: solid 1px #2e0043;
+    font-size: 18px;
+}
+.videos{
+    margin: 100px;
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+}
+
+.videosgeral {
+    background-color: #b8b8ed5e;
+}
+
+.videosgeral img{
+    opacity: 0.5px;
+    height: 200px;
+}
+
+.videosgeral img:hover {
+    opacity: 1.5px;
+    border: 2px solid red;
+}
+
+.videosrecomendados {
+    margin-left: 570px;
+    margin-right: 545px;
+    border-bottom: solid 1px #2e0043;
+    font-size: 20px;
+    padding-top: 20px;
+}
